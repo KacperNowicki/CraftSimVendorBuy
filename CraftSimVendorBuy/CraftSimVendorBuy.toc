@@ -1,0 +1,13 @@
+## Interface: 120007, 120100
+## Title: CraftSim Vendor Buy
+## Notes: Buy missing CraftSim Craft Queue reagents from the current merchant with one click.
+## Author: KacperNowicki
+## Version: 1.0.0
+## Category: Professions
+## IconTexture: Interface\AddOns\CraftSimVendorBuy\Media\Icon.tga
+## X-License: MIT
+## X-Website: https://github.com/KacperNowicki/CraftSimVendorBuy
+## OptionalDeps: CraftSim
+## SavedVariables: CraftSimVendorBuyDB
+
+CraftSimVendorBuy.lua
