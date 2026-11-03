@@ -1,13 +1,14 @@
-## Interface: 120007, 120100
+## Interface: 120007, 120100, 120105
 ## Title: CraftSim Vendor Buy
-## Notes: Buy missing CraftSim Craft Queue reagents from the current merchant with one click.
+## Notes: Buy the missing CraftSim vendor order in confirmed batches after one click.
 ## Author: KacperNowicki
-## Version: 1.0.0
+## Version: 1.4.0
 ## Category: Professions
 ## IconTexture: Interface\AddOns\CraftSimVendorBuy\Media\Icon.tga
 ## X-License: MIT
 ## X-Website: https://github.com/KacperNowicki/CraftSimVendorBuy
-## OptionalDeps: CraftSim
+## OptionalDeps: CraftSim, Auctionator
 ## SavedVariables: CraftSimVendorBuyDB
 
+AuctionatorSync.lua
 CraftSimVendorBuy.lua
